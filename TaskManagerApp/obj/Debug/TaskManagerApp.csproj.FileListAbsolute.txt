@@ -1,0 +1,7 @@
+C:\Users\malyt\source\repos\TaskManagerApp\TaskManagerApp\bin\Debug\TaskManagerApp.exe.config
+C:\Users\malyt\source\repos\TaskManagerApp\TaskManagerApp\bin\Debug\TaskManagerApp.exe
+C:\Users\malyt\source\repos\TaskManagerApp\TaskManagerApp\bin\Debug\TaskManagerApp.pdb
+C:\Users\malyt\source\repos\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.csproj.AssemblyReference.cache
+C:\Users\malyt\source\repos\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\malyt\source\repos\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.exe
+C:\Users\malyt\source\repos\TaskManagerApp\TaskManagerApp\obj\Debug\TaskManagerApp.pdb
